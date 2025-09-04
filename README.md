@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-I'm **Adam Alfiansyah**, a software engineer passionate about JavaScript, TypeScript, React, Next.js, Nuxt.js, Vue, PHP, Laravel and Inertia.js.  
-I usually work on private projects for companies or my own products.  
-Now I want to start contributing to open-source and sharing knowledge with the community.  
+I'm **Adam Alfiansyah**, a software engineer passionate about JavaScript, TypeScript, React, Next.js, Nuxt.js, Vue, PHP, Laravel and Inertia.js.
+I want to start contributing to open-source and sharing knowledge with the community.  
 I would really appreciate your support 🙏
 
 ---
